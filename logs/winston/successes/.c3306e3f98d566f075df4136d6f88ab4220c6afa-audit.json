@@ -1,0 +1,40 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/fahimahammedfiroz/level2/university-management-auth-service/logs/winston/successes/.c3306e3f98d566f075df4136d6f88ab4220c6afa-audit.json",
+    "files": [
+        {
+            "date": 1697986724724,
+            "name": "/Users/fahimahammedfiroz/level2/university-management-auth-service/logs/winston/successes/phu-2023-22-10-20-success.log",
+            "hash": "9cad7cfb36cb878a57513cf8922187b17373fb44d9585ec476c8711e7a720197"
+        },
+        {
+            "date": 1698052754694,
+            "name": "/Users/fahimahammedfiroz/level2/university-management-auth-service/logs/winston/successes/phu-2023-23-10-15-success.log",
+            "hash": "b4246216231e6d948abb20c8859dc9577fe1417e766c265cd52dd02cd94432c2"
+        },
+        {
+            "date": 1698062166206,
+            "name": "/Users/fahimahammedfiroz/level2/university-management-auth-service/logs/winston/successes/phu-2023-23-10-17-success.log",
+            "hash": "ec27de0013949c61afc563a06b904c15fa297d7faf8e9ce7f75723844d2b0ed0"
+        },
+        {
+            "date": 1698062501321,
+            "name": "/Users/fahimahammedfiroz/level2/university-management-auth-service/logs/winston/successes/phu-2023-23-10-18-success.log",
+            "hash": "8704ac4c4f1dc5689765ef7ead896687dab8c998c231e947bf6602f4149de25d"
+        },
+        {
+            "date": 1698237144687,
+            "name": "/Users/fahimahammedfiroz/level2/university-management-auth-service/logs/winston/successes/phu-2023-25-10-18-success.log",
+            "hash": "78b263167054607f55123435613015e8cee1a9760dcb7a6052b8ec8c507dba10"
+        },
+        {
+            "date": 1698238816504,
+            "name": "/Users/fahimahammedfiroz/level2/university-management-auth-service/logs/winston/successes/phu-2023-25-10-19-success.log",
+            "hash": "04f0476836c7f26975364073dceeb67662d03ed3e4239e42f45787bf38260834"
+        }
+    ],
+    "hashType": "sha256"
+}

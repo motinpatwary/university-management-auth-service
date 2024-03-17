@@ -1,0 +1,40 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/fahimahammedfiroz/level2/university-management-auth-service/logs/winston/errors/.8b2faa68ccf968da36c1063ef1b46e8323e6df78-audit.json",
+    "files": [
+        {
+            "date": 1697986724729,
+            "name": "/Users/fahimahammedfiroz/level2/university-management-auth-service/logs/winston/errors/phu-2023-22-10-20-error.log",
+            "hash": "f73e501c32ed19a7a5ac78a0ee9dc86858f66b2a76d81dcda3bd7fd9e7258f53"
+        },
+        {
+            "date": 1698052754696,
+            "name": "/Users/fahimahammedfiroz/level2/university-management-auth-service/logs/winston/errors/phu-2023-23-10-15-error.log",
+            "hash": "7e5e417c61b954ba818a894b75bfde585fb404c0dae022828becb962d368a768"
+        },
+        {
+            "date": 1698062166207,
+            "name": "/Users/fahimahammedfiroz/level2/university-management-auth-service/logs/winston/errors/phu-2023-23-10-17-error.log",
+            "hash": "e396289ef2c61548f2197cbd25c60dfdaa23910fad129fd2733d4b40fb86c09b"
+        },
+        {
+            "date": 1698062501323,
+            "name": "/Users/fahimahammedfiroz/level2/university-management-auth-service/logs/winston/errors/phu-2023-23-10-18-error.log",
+            "hash": "821803b12376017282063f7d5bac4059897a27703a813e2eed6f4d2602efd1ac"
+        },
+        {
+            "date": 1698237144689,
+            "name": "/Users/fahimahammedfiroz/level2/university-management-auth-service/logs/winston/errors/phu-2023-25-10-18-error.log",
+            "hash": "537405274ea8d6e8e53265eb55105134431dfcf40c726f3499447c44cd14c30c"
+        },
+        {
+            "date": 1698238816507,
+            "name": "/Users/fahimahammedfiroz/level2/university-management-auth-service/logs/winston/errors/phu-2023-25-10-19-error.log",
+            "hash": "ffee936b2717597e5e9169fea2d1aa9b2ffa6247852964f1340cb82c98f55448"
+        }
+    ],
+    "hashType": "sha256"
+}
